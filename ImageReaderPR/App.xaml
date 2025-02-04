@@ -2,7 +2,7 @@
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:ImageReaderPR"
-             StartupUri="MainWindow.xaml">
+             StartupUri="CombinedResultWindow.xaml">
     <Application.Resources>
          
     </Application.Resources>

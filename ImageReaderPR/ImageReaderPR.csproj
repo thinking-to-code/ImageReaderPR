@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="BarCode" Version="2025.1.10" />
+    <PackageReference Include="ClosedXML" Version="0.104.2" />
     <PackageReference Include="Dynamsoft.DotNet.BarcodeReader.Bundle" Version="10.4.2000" />
     <PackageReference Include="Emgu.CV" Version="4.10.0.5680" />
     <PackageReference Include="Emgu.CV.Bitmap" Version="4.10.0.5680" />
